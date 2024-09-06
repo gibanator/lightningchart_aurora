@@ -1,4 +1,5 @@
-# Real-Time Visualization of Aurora Borealis probability using LightningChart Python## Introduction
+# Real-Time Visualization of Aurora Borealis probability using LightningChart Python
+## Introduction
 Solar flares originate from regions of intense magnetic activity on the Sun, particularly around sunspots. They release huge amounts of energy in the form of radiation and energetic particles, including **protons, electrons, and heavier ions**. These high-energy particles, known as **solar energetic particles (SEPs)**, are ejected into space, traveling along the Sun’s magnetic field lines. If directed toward Earth, these charged particles can reach our planet in a matter of minutes to hours.
 
 When solar flare emissions interact with Earth’s magnetic field, they can cause **geomagnetic storms**. These storms disturb satellite communications, GPS systems, and power grids. SEPs can also trigger the **Aurora Borealis (Northern Lights)**, a phenomenon caused when charged particles collide with Earth's magnetosphere, particularly at the polar regions. 
