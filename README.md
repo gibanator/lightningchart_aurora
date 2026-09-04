@@ -29,14 +29,6 @@ This project:
 
 `Python · pandas · NumPy · REST/JSON APIs · LightningChart`
 
-## Dashboard
-
-![Solar wind dashboard](md_images/result.png)
-
-![Solar flares reference image](md_images/solarflares.png)
-
----
-
 ## Detailed Walkthrough
 
 ### Introduction
